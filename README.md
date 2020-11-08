@@ -10,9 +10,10 @@
 
     crear proyecto java 8 (spring tool)
     packing war
-    borrar en proyect properties en profile el pom.xml y dar aplicar.
+    borrar en proyect->properties->en profile el pom.xml y dar aplicar.
     run as -> spring boot app ->
     run as -> install maven (genera .war)
+    maven-> update pyoject
 
 ** DEPLOY **
 
